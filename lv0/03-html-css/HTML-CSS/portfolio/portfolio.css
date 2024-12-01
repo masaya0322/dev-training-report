@@ -1,0 +1,31 @@
+.wrapper{
+    font-size: 15px;/*webサイトは通常14~16px*/
+    line-height: 1.5;
+}
+table{
+    width: 300px;
+    border-collapse:collapse;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+th,td{
+    border: 1px solid black;
+    width: 50%;
+}
+h1{    
+    border-bottom: 1px solid black;
+}
+.header{
+    background-color: rgb(223, 223, 223);
+    display: flex;
+    padding: 10px !important;
+    justify-content: space-evenly;
+    border-bottom: solid 1px black;
+}
+a{
+    color: white !important;
+    text-decoration: none !important;
+}
+body{
+    background-color: rgba(229, 229, 229, 0.502) !important;
+}
