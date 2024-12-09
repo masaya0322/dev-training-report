@@ -1,0 +1,131 @@
+@charset "UTF-8";
+html{
+    font-size:100%;
+}
+body{
+    color:#383e45;
+    font-size:0.9em;
+}
+a{
+    text-decoration:none;
+}
+img{
+    max-width: 100%;
+}
+li{
+    list-style:none;
+}
+.site-title{
+    width:120px;
+    line-height:1px;/*１行分の高さ*/
+    padding:10px 0;
+}
+.site-title a{/*site-titleクラス内の要素aのプロパティを設定*/
+    display:block/*blockは横幅全体を占有し、上下には自動で余白が付く*/
+}
+.section-title{
+    display: inline-block;
+    font-size:2rem;
+    margin-bottom:60px;
+    border-bottom:solid 1px #383e45;
+}
+.content-title{
+    font-size:1rem;
+    margin:10px 0;
+}
+.wrapper{/*コーディング仕様のコンテンツ幅*/
+    max-width:960;/*コンテンツの横幅は960px*/
+    margin:0 auto 100px;
+    padding:0 4%;/*横のパディングは4%*/
+    text-align:center;
+}
+
+/*ヘッダー*/
+#header{/*#○○でそのidをもつ要素に設定できる*/
+    display:flex;/*flexboxを使ってる*/
+    justify-content:space-between;/*両端に一つずつアイテムを置き、残りのアイテムは均等な感覚を取る*/
+    align-items:center;
+    margin:0 auto;/*要素全体の左右中央揃え*/
+}
+#header ul{
+    display:flex;
+    padding:10px 0;
+}
+#header li{
+    margin-left:30px;
+}
+#header li a{
+    color:#24292e;
+}
+#header li a:hover{/*ホバー時のスタイル変更（ホバーとはマウスカーソルが要素の上に乗った状態のこと）*/
+    opacity:0.7;/*opacityは透明度を示す*/
+}
+
+/*Mainvisual*/
+#mainvisual{
+    margin-bottom:80px;
+}
+#mainvisual img{
+    width:100%;
+    max-width:1920px;
+    height:600px;
+    object-fit:cover;/*縦横比を維持したまま親要素を完全に覆うように画像を調整*/
+}
+
+/*About*/
+#about .content{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+#about img{
+    width:100px;
+    height:100px;
+    border-radius: 50%;/*要素の角を丸くするためのもので、特に50%を設定することで丸い形状を作れる*/
+    margin-right:30px;
+}
+#about .text{
+    text-align:left;
+}
+
+/*Bicycle*/
+#bicycle ul{
+    display: flex;
+    justify-content:space-between;
+}
+#bicycle li{
+    width:32%;
+}
+
+/*footer*/
+#footer{
+    font-size:0.5rem;
+    padding:10px 0;
+    text-align:center;
+}
+
+/*SP*/
+@media screen and (max-width:600px){
+    /*Mainvisual*/
+    #mainvisual img{
+        height:clac(100vh - 60px);/*vhは画面の高さ*/
+
+    }
+
+    /*About*/
+    #about .content{
+        flex-direction:column;/*flexboxのレイアウトの方向をcolumnで縦方向にしている。rowの場合は横になる*/
+    }
+    #about img{
+        margin-right:0;
+    }
+
+    /*Bicycle*/
+    #bicycle ul{
+        flex-direction:column;
+    }
+    #bicycle li{
+        width:100%;
+        margin-bottom:30px;
+    }
+}
