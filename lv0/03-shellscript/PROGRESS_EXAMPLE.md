@@ -1,0 +1,84 @@
+# OS(Linux)とパス
+- 2章
+- 地下深くへ……
+  - https://business.algo-method.com/employee/elearning/tasks/08a76ae2a3bde7f0
+- Linux の環境構築
+  - https://business.algo-method.com/employee/elearning/tasks/c988837260bcf4c4
+
+# ShellScript 初級
+- 1章
+  - 1, 2, 3!!!
+    - https://business.algo-method.com/employee/elearning/tasks/73f8da72e6deb05f
+  - 九九
+    - https://business.algo-method.com/employee/elearning/tasks/9d1db4f904c9e8f7
+- 2章
+  - ファイル整理
+    - https://business.algo-method.com/employee/elearning/tasks/78e68c084f3af6e6
+  - 解体工事
+    - https://business.algo-method.com/employee/elearning/tasks/6b967454916aa9f7
+  - 掛け算 (4)
+    - https://business.algo-method.com/employee/elearning/tasks/6e38bfceffab0d72
+  - れる -> られる
+    - https://business.algo-method.com/employee/elearning/tasks/04668ad65ed36474
+  - 権限剥奪
+    - https://business.algo-method.com/employee/elearning/tasks/df000f345df2674f
+- 3章
+  - Python or C++?
+    - https://business.algo-method.com/employee/elearning/tasks/9f7ed3368d537b28 
+  - 100 個のファイル
+    - https://business.algo-method.com/employee/elearning/tasks/e9c6d2eb40c0ea6b
+  - ファイルの大量整理
+    - https://business.algo-method.com/employee/elearning/tasks/2586fa03d5a89dfc
+  - ALGO111 -> ALGO211
+    - https://business.algo-method.com/employee/elearning/tasks/33a1f9439e11324f
+  - ALGO001 -> ALGO101
+    - https://business.algo-method.com/employee/elearning/tasks/ef5e2d43de04986b
+  - 中身を総入れ替え
+    - https://business.algo-method.com/employee/elearning/tasks/578337879bd8e6ac
+  - リネーム
+    - https://business.algo-method.com/employee/elearning/tasks/3cd23ae9578a4883
+  - だるま落とし
+    - https://business.algo-method.com/employee/elearning/tasks/d39597dd7561f0bb
+  - ディレクトリ名のメモ書き
+    - https://business.algo-method.com/employee/elearning/tasks/3c4f75402cce555a
+
+# ShellScript 中級
+- 4章
+  - コマンドのメモ書き
+    - https://business.algo-method.com/employee/elearning/tasks/1bf888ca33ffa67b
+  - エラー (3)
+    - https://business.algo-method.com/employee/elearning/tasks/e6e0cd6fcef2036a
+  - ファイルの在処
+    - https://business.algo-method.com/employee/elearning/tasks/a118012e5255c7d7
+- 5章
+  - ver1.txt, ver2.txt, ...
+    - https://business.algo-method.com/employee/elearning/tasks/022dd6dc6f9c9b2b
+  - ファイル名のメモ書き
+    - https://business.algo-method.com/employee/elearning/tasks/c5a3b24ce87d4b60
+  - ALGO 変数
+    - https://business.algo-method.com/employee/elearning/tasks/d6eda63cb013857e
+- 6章
+  - 連続計算
+    - https://business.algo-method.com/employee/elearning/tasks/9233b3a2536f962d
+  - python_code".txt"
+    - https://business.algo-method.com/employee/elearning/tasks/ac4605cd281a500a
+  - 権限設定
+    - https://business.algo-method.com/employee/elearning/tasks/b526947bab356694
+  - 権限の確認
+    - https://business.algo-method.com/employee/elearning/tasks/6c1521c2ea3493fb
+  - 3 の倍数
+    - https://business.algo-method.com/employee/elearning/tasks/cbf00a3ada67ec72
+  - 緑の食べ物もおいしい
+    - https://business.algo-method.com/employee/elearning/tasks/1d40fe5716fd859a
+  - パスを通す
+    - https://business.algo-method.com/employee/elearning/tasks/9d36475053716cc6
+  - 原因不明のエラー
+    - https://business.algo-method.com/employee/elearning/tasks/d70e5beae68d310b
+  - ファイル欠損
+    - https://business.algo-method.com/employee/elearning/tasks/a7f4cffc73f59d64
+  - 赤、赤、赤、赤
+    - https://business.algo-method.com/employee/elearning/tasks/770a3894c8466f16
+  - ファイルの書き換え
+    - https://business.algo-method.com/employee/elearning/tasks/f3dc6fa575909ce3
+  - ファイルの作り忘れ
+    - https://business.algo-method.com/employee/elearning/tasks/74f79266d1ce8b91

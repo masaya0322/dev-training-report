@@ -1,0 +1,39 @@
+# データベース 初級
+- 1章
+  - 人口密度ランキング
+    - https://business.algo-method.com/employee/elearning/tasks/e8b485b58144106d
+- 2章
+  - お得意様
+    - https://business.algo-method.com/employee/elearning/tasks/0351f6c3871ebc2e
+- 3章
+  - 家計簿の分析
+    - https://business.algo-method.com/employee/elearning/tasks/21f19f1fe5c62c65
+- 4章
+  - ライバル検索
+    - https://business.algo-method.com/employee/elearning/tasks/bd16ee12f1289912
+  - 試験評価ふたたび
+    - https://business.algo-method.com/employee/elearning/tasks/878a15ec0915737c
+# データベース 中級
+- 5章
+  - 順位表3ページ目
+    - https://business.algo-method.com/employee/elearning/tasks/f34d3aca7e7f882e
+  - 全員正解
+    - https://business.algo-method.com/employee/elearning/tasks/52d8485dc80f11f7
+  - 人気投稿者
+    - https://business.algo-method.com/employee/elearning/tasks/c221ea99f3b15d48
+- 6章
+  - 問題のある設計 (1)
+    - https://business.algo-method.com/employee/elearning/tasks/90865b8ca3a3202a
+  - 問題のある設計 (2)
+    - https://business.algo-method.com/employee/elearning/tasks/a017c4f5d092a4a8
+ - 正規化 (1)
+    - https://business.algo-method.com/employee/elearning/tasks/58f1cdb7e54983b0
+ - 正規化 (2)
+    - https://business.algo-method.com/employee/elearning/tasks/d3e6293d749e3551
+- 7章
+  - 履修者数
+    - https://business.algo-method.com/employee/elearning/tasks/aa83bd27901d4322
+- 8章
+  - SNS (3)
+    - https://business.algo-method.com/employee/elearning/tasks/94f7344b66a15da0
+
